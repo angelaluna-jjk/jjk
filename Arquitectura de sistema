@@ -4,7 +4,7 @@ Entradas(Inputs)
  ¿Qué datos recibe el sistema?:Datos de clientes, productos, provedores
  ¿Quién los ingresa?:Administreadores y vendedores
  ¿Son números, texto, archivos?:De diferentes tipos, numeros para los telefonos y precios, texto para
-el inventario, nombres del producto
+el inventario, nombres del producto                                                   
 
 Procesos
  ¿Qué hace el sistema con esos datos?
