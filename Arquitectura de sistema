@@ -1,1 +1,25 @@
-# jjk
+#jjk
+Entradas
+ ¿Qué datos recibe el sistema?
+ ¿Quién los ingresa?
+ ¿Son números, texto, archivos?
+
+Procesos
+ ¿Qué hace el sistema con esos datos?: El sistema como parte principal tiene un orden o sintaxis que debe seguir al momento de recibir datos de entrada para despues analizarlos, esto es como un filtro que ayuda a descartar fallas y de ahi sigue el proceso que se le hace a cada dato dependiendo su tipo.
+ ¿Valida?: Si, con la informacion obetenida el sistema revisa que tenga los requerimientos que se solicitan para hacer el debido proceso que corrresponde, dependiendo cual sea el tipo de solicitud.
+ ¿Calcula?: El sistema al procesar la informacion ingresada hasta cierto momento calcula lo que tiene, es decir calcula cuanta informacion hay, de que tipo, la hora,fecha ingresada y cantidad de valores monetareas.
+ ¿Guarda?: Almacena los registros de todo proceso que requiere cada tipo de informacion como un seguro que se tiene en caso de que ocurra algun percanse que requiera de revisar nuevamente esos registros.
+
+Salidas
+ ¿Qué obtiene el usuario?
+ ¿Qué genera el sistema?
+ ¿Permite tomar decisiones?
+
+Usuarios
+ ¿Quién usa el sistema?
+ ¿Todos hacen lo mismo?
+ ¿Hay permisos?
+
+Información
+ ¿Qué datos son críticos?: Los datos catalogados de esa manera son dichos reportes que presente el sistema en cuanto a calculo de valores, almcenamiento de informacion, quejas o peticiones provenientes de los usuarios.
+ ¿Qué no se puede perder?: Datos personales de los usuarios, sus registros de solicitudes e historial de movimientos monetarios.
