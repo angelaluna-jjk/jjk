@@ -21,5 +21,5 @@ Usuarios
  ¿Hay permisos?
 
 Información
- ¿Qué datos son críticos?: Los datos catalogados de esa manera son dichos reportes que presente el sistema en cuanto a calculo de valores, almcenamiento de informacion, quejas o peticiones provenientes de los usuarios.
+ ¿Qué datos son críticos?: Los datos críticos son los reportes generados por el sistema relacionados con cálculos de valores monetarios, almacenamiento de información, y registros de quejas o peticiones realizadas por los usuarios.
  ¿Qué no se puede perder?: Datos personales de los usuarios, sus registros de solicitudes e historial de movimientos monetarios.
