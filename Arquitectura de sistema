@@ -11,9 +11,9 @@ Procesos
  ¿Guarda?: Almacena los registros de todo proceso que requiere cada tipo de informacion como un seguro que se tiene en caso de que ocurra algun percanse que requiera de revisar nuevamente esos registros.
 
 Salidas
- ¿Qué obtiene el usuario?
- ¿Qué genera el sistema?
- ¿Permite tomar decisiones?
+ ¿Qué obtiene el usuario?:El usuario obtiene reportes de ventas, facturas generadas, registros de clientes y actualizaciones de inventario.
+ ¿Qué genera el sistema?:El sistema genera comprobantes de transacciones, informes de desempeño, alertas de stock y respaldos automáticos de la información.
+ ¿Permite tomar decisiones?:Sí, permite tomar decisiones basadas en los reportes de ventas, niveles de inventario y análisis de movimientos monetarios.
 
 Usuarios
  ¿Quién usa el sistema? El administrador y los vendedores.
