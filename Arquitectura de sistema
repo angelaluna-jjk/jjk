@@ -16,7 +16,7 @@ Salidas
  ¿Permite tomar decisiones?
 
 Usuarios
- ¿Quién usa el sistema? El administrador y los vendedores
+ ¿Quién usa el sistema? El administrador y los vendedores.
  ¿Todos hacen lo mismo? No, porque el administrador gestiona inventario, proveedores y reportes. Mientras que los vendedores solo registran ventas
  ¿Hay permisos? Pues si aunque el administrador tiene acceso total mietras que los vendedores tienen acceso limitado a ventas más no a decisiones drasticas para la empresa.
 
