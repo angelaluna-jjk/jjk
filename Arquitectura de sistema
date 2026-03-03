@@ -16,9 +16,9 @@ Salidas
  ¿Permite tomar decisiones?
 
 Usuarios
- ¿Quién usa el sistema?
- ¿Todos hacen lo mismo?
- ¿Hay permisos?
+ ¿Quién usa el sistema? El administrador y los vendedores
+ ¿Todos hacen lo mismo? No, porque el administrador gestiona inventario, proveedores y reportes. Mientras que los vendedores solo registran ventas
+ ¿Hay permisos? Pues si aunque el administrador tiene acceso total mietras que los vendedores tienen acceso limitado a ventas más no a decisiones drasticas para la empresa.
 
 Información
  ¿Qué datos son críticos?: Los datos críticos son los reportes generados por el sistema relacionados con cálculos de valores monetarios, almacenamiento de información, y registros de quejas o peticiones realizadas por los usuarios.
