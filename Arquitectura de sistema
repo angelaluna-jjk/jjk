@@ -3,7 +3,7 @@ Entradas   DANVAHOGAR Y COMFORT
  ¿Qué datos recibe el sistema? Rcibe datos de clientes como nombres, teléfonos, direcciónes, datos de productos, ventas y proveedores
  ¿Quién los ingresa? Los ingresan los administradores y a su vez los vendedores
  ¿Son números, texto, archivos? de los tres tipos, texto para nombres, etc...Numeros para los precios, numeros de telefono, direcciones, tipos de productos y archivos pdf para facturas e incluso catalogos
-
+ 
 Procesos
  ¿Qué hace el sistema con esos datos?: El sistema como parte principal tiene un orden o sintaxis que debe seguir al momento de recibir datos de entrada para despues analizarlos, esto es como un filtro que ayuda a descartar fallas y de ahi sigue el proceso que se le hace a cada dato dependiendo su tipo.
  ¿definición de reglas de validación?: Si, con la informacion obetenida el sistema revisa que tenga los requerimientos que se solicitan para hacer el debido proceso que corrresponde, dependiendo cual sea el tipo de solicitud.
