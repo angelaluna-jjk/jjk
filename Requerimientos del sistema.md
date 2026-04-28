@@ -12,3 +12,4 @@ NO FUNCIONALES
 4. Usabilidad: la interfaz debe permitir al usuario interactuar con la pagina y realizar el pedido de su preferencia.
 5. Mantenibilidad: el sistema debe poseer una arquitectura organizada por piezas independientes que permita realizar actualizaciones de la logica de negocio (como nuevos metodos de pago o tarifas), de modo que el cambio sea rapido y no cause fallas en el resto de la pagina.
 6. Fiabilidad: El sistema debe garantizar la integridad de la informacion del pedido ante fallos inesperados de red, asegurando que los datos del carrito y el estado del pago no se pierdan y se recuperen automaticamente al restablecer la conexion.
+7. Velocidad: El sistema debe ser rapido a la hora de responder en cada click, esto evita la mala experiencia de usuario.
