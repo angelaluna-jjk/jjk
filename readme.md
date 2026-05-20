@@ -3,12 +3,12 @@ ADMINISTRACIÓN CENTRALIZADA: Al poseer una única sede, la administración cent
 
 # Modelado de Roles:
 1. Administrador General
--Acceso total a reportes financieros, márgenes de ganancia y balances de ventas de textiles.
--Gestión de cuentas bancarias y configuración de las cuentas receptoras del dinero.
--Alta, baja y asignación de roles para todos los empleados en el sistema.
--Poseedor de las credenciales maestras y llaves de producción de las APIs de Pago.
--Propiedad legal y acceso de recuperación del Dominio web.
--Capacidad de revocar accesos de emergencia en Servidores y Repositorios.
+- Acceso total a reportes financieros, márgenes de ganancia y balances de ventas de textiles.
+- Gestión de cuentas bancarias y configuración de las cuentas receptoras del dinero.
+- Alta, baja y asignación de roles para todos los empleados en el sistema.
+- Poseedor de las credenciales maestras y llaves de producción de las APIs de Pago.
+- Propiedad legal y acceso de recuperación del Dominio web.
+- Capacidad de revocar accesos de emergencia en Servidores y Repositorios.
 
 2. Gestor de Tienda
 -Crear, modificar y eliminar productos del catálogo (subir fotos de telas, descripciones, precios y tallas).
