@@ -58,6 +58,12 @@ ADMINISTRACIÓN CENTRALIZADA: Al poseer una única sede, la administración cent
 <img width="742" height="562" alt="image" src="https://github.com/user-attachments/assets/696fb4e6-6248-4e41-a2c9-60df3c5d001d" />
 <img width="816" height="610" alt="image" src="https://github.com/user-attachments/assets/29c2ab63-0950-437e-a426-700ac7621b15" />
 
+# Arquitectura
+<img width="964" height="527" alt="Screenshot 2026-05-23 174558" src="https://github.com/user-attachments/assets/15ee4a58-27bd-4cab-86ec-d66df94e6bd3" />
+
+# Tipo de SI
+Nuestro proyecto funciona de dos maneras. Primero, trabaja como un sistema TPS porque se encarga de registrar en el momento todo lo que pasa en el negocio cada día, como las ventas que hacen los clientes y el control de los productos que entran y salen del almacén. Segundo, también actúa como un sistema MIS porque junta toda esa información diaria y la convierte en reportes sencillos. Esto le permite al dueño revisar de forma rápida qué productos se venden más, cuánta mercancía queda en stock y cómo van las ganancias para poder tomar buenas decisiones en la empresa.
+
 
 
 
