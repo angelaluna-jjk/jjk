@@ -1,7 +1,7 @@
-# Contexto Administrativo:
+# Contexto Administrativo
 ADMINISTRACIÓN CENTRALIZADA: Al poseer una única sede, la administración centralizada es la estrategia más eficiente para la empresa porque garantiza que todos los procesos de venta y control de inventario operen bajo un mismo entorno. Esto evita que existan diferencias entre el stock físico de la sede y lo que muestra la tienda online, facilitando que el equipo interno supervise la seguridad de los activos y responda con agilidad ante cualquier falla técnica sin causar conflicto en la toma de decisiones.
 
-# Modelado de Roles:
+# Modelado de Roles
 1. Administrador General
 - Acceso total a reportes financieros, márgenes de ganancia y balances de ventas de textiles.
 - Gestión de cuentas bancarias y configuración de las cuentas receptoras del dinero.
@@ -47,16 +47,17 @@ ADMINISTRACIÓN CENTRALIZADA: Al poseer una única sede, la administración cent
 - Gestión de Backups: Programar y verificar que las copias de seguridad de la Base de Datos se realicen de forma automática todos los días.
 
 # Matriz RACI
-
 <img width="751" height="442" alt="Screenshot 2026-05-19 233057" src="https://github.com/user-attachments/assets/e51a8736-17dd-4e88-bf99-21899ecfd65f" />
 
-# Diccionario de Datos: 
-
+# Diccionario de Datos
 <img width="1427" height="701" alt="image" src="https://github.com/user-attachments/assets/e67cbabc-d7c3-40dd-b7de-392a99108df4" />
 <img width="1422" height="790" alt="image" src="https://github.com/user-attachments/assets/f80c3cfe-234c-48aa-a430-17d9b3091fb5" />
 <img width="1556" height="575" alt="image" src="https://github.com/user-attachments/assets/8a0117a1-6f1a-4943-b02a-d73d38814930" />
 <img width="742" height="562" alt="image" src="https://github.com/user-attachments/assets/696fb4e6-6248-4e41-a2c9-60df3c5d001d" />
 <img width="816" height="610" alt="image" src="https://github.com/user-attachments/assets/29c2ab63-0950-437e-a426-700ac7621b15" />
+
+# Validacion de Entrada
+
 
 # Arquitectura
 <img width="964" height="527" alt="Screenshot 2026-05-23 174558" src="https://github.com/user-attachments/assets/15ee4a58-27bd-4cab-86ec-d66df94e6bd3" />
