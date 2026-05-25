@@ -57,7 +57,7 @@ ADMINISTRACIÓN CENTRALIZADA: Al poseer una única sede, la administración cent
 <img width="816" height="610" alt="image" src="https://github.com/user-attachments/assets/29c2ab63-0950-437e-a426-700ac7621b15" />
 
 # Validacion de Entrada
-
+<img width="1117" height="778" alt="image" src="https://github.com/user-attachments/assets/9de6bbad-39a0-4ce5-a91c-4d4ab92d6ac1" />
 
 # Arquitectura
 <img width="964" height="527" alt="Screenshot 2026-05-23 174558" src="https://github.com/user-attachments/assets/15ee4a58-27bd-4cab-86ec-d66df94e6bd3" />
