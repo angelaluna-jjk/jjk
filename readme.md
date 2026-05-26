@@ -55,6 +55,10 @@ ADMINISTRACIÓN CENTRALIZADA: Al poseer una única sede, la administración cent
 <img width="1556" height="575" alt="image" src="https://github.com/user-attachments/assets/8a0117a1-6f1a-4943-b02a-d73d38814930" />
 <img width="742" height="562" alt="image" src="https://github.com/user-attachments/assets/696fb4e6-6248-4e41-a2c9-60df3c5d001d" />
 <img width="816" height="610" alt="image" src="https://github.com/user-attachments/assets/29c2ab63-0950-437e-a426-700ac7621b15" />
+<img width="1024" height="768" alt="Tabla Cuadro Comparativo de Resultados Aesthetic Marrón" src="https://github.com/user-attachments/assets/f38e42d9-6319-4653-9879-6d8c25deb8d8" />
+<img width="1016" height="715" alt="image" src="https://github.com/user-attachments/assets/6f497154-c34f-4248-99fc-e976deff0623" />
+<img width="1295" height="773" alt="image" src="https://github.com/user-attachments/assets/13b8128f-936d-4df3-909b-9ba20fcdd289" />
+<img width="1024" height="768" alt="Tabla Cuadro de Resultados Orgánico Orgánico Profesional Azul y Beige" src="https://github.com/user-attachments/assets/ae1faf02-fdf6-4f21-918e-4e5d7fadeeb1" />
 
 # Validacion de Entrada
 <img width="1117" height="778" alt="image" src="https://github.com/user-attachments/assets/9de6bbad-39a0-4ce5-a91c-4d4ab92d6ac1" />
