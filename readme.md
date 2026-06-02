@@ -42,7 +42,7 @@ ADMINISTRACIÓN CENTRALIZADA: Al poseer una única sede, la administración cent
 - Gestión de Backups: Programar y verificar que las copias de seguridad de la Base de Datos se realicen de forma automática todos los días.
 
 # Matriz RACI
-<img width="761" height="463" alt="image" src="https://github.com/user-attachments/assets/8f11048c-44cd-4cd7-8567-f4ede7458c2b" />
+<img width="665" height="468" alt="image" src="https://github.com/user-attachments/assets/5db1f5d7-bb50-4fae-a1f6-75c28d93de2c" />
 
 # Diccionario de Datos
 <img width="1427" height="701" alt="image" src="https://github.com/user-attachments/assets/e67cbabc-d7c3-40dd-b7de-392a99108df4" />
